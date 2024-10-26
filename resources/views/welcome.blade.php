@@ -7,6 +7,7 @@
     <title>Laravel Kozhikode Session</title>
 </head>
 <body>
+    <h1>Laracon India</h1>
     <h2>Laravel Kozhikode Session</h2>
 </body>
 </html>
